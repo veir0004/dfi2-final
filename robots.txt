@@ -1,0 +1,12 @@
+# hashes are comments
+
+# http://en.wikipedia.org.wiki/Robots_exclusions_standard
+# http://www.robotstxt.org
+
+Sitemap: http://veir000.site44.com/dsn1543/seo/sitemap.xml
+
+User-agent: *
+
+Disallow: /folder-name-that-we-dont-want-to-show/
+Disallow: /tmt/
+Disallow: /assests/

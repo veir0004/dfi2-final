@@ -1,0 +1,17 @@
+/*team*/
+
+Designer & developer: Nichole Veiro
+Location: Ottawa, Canada
+
+
+/*thanks*/
+
+thanks to the awesome people that make the interwebz.
+and Tiffany Tse.
+
+/*site*/
+
+Last update 2013/11/15
+Standards: HTML5, CSS3
+Components: Modernizr, Jquery, etc...
+Software: Adobe, Livereload,sublime text 2
